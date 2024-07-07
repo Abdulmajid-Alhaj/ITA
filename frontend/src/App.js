@@ -1,14 +1,14 @@
-import React, { useState } from 'react';
+import React from 'react';
 
 import './App.css';
-import OurProject from './pages/OurProject';
+import Home from './pages/Home';
 
 function App() {
 
 
   return (
     <div className="App">
-      <OurProject />
+      <Home />
     </div>
   );
 }
