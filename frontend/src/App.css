@@ -2,3 +2,8 @@
     max-height: 350px;
     object-fit: cover;
 }
+body{
+    background-image: url('../public/images/BACKGROUND.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
